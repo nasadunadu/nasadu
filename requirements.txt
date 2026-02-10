@@ -1,0 +1,5 @@
+# Requirements for Trae
+# Trae 依赖项
+
+# No dependencies required for basic functionality
+# 基本功能无需依赖项
